@@ -1,0 +1,74 @@
+{
+  "take": [
+    {
+      "Img": "../images/takeone.gif",
+      "Title": "ACA/北美电器 AT-P0802C多士炉烤面包片",
+      "Data": "2017年08月01日-8月18日",
+      "Price":"￥149.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/taketwo.png",
+      "Title": "Haier 海尔智能嫩烤箱 (珍珠白)",
+      "Data": "2017年07月25日-8月25日",
+      "Price":"￥2124.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takethree.png",
+      "Title": "vivo X9 手机，前置2000万柔光双摄",
+      "Data": "2017年08月03日-8月23日",
+      "Price":"￥2798.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takefour.gif",
+      "Title": "ACA/北美电器 AHM-P125A手持搅拌器电动打蛋器",
+      "Data": "2017年08月16日-9月06日",
+      "Price":"￥79.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takefive.gif",
+      "Title": "青山老农玫瑰焕彩基础护理四件套",
+      "Data": "2017年08月14日-9月04日",
+      "Price":"￥199.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takesix.png",
+      "Title": "北美电器（ACA）AB-PCT1515 自动投果料酵母双料面包机",
+      "Data": "2017年08月11日-9月01日",
+      "Price":"￥639.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takeseven.png",
+      "Title": "蓝月亮机洗至尊「浓缩+」洗衣液低泡亮白增艳家庭套装",
+      "Data": "2017年08月08日-8月30日",
+      "Price":"￥99.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takeeight.png",
+      "Title": "ACA/北美电器 ABT-MP12 烘焙伴侣模具套餐",
+      "Data": "2017年08月04日-8月28日",
+      "Price":"￥199.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/takenie.gif",
+      "Title": "Brita Marella碧然德滤水壶套装",
+      "Data": "2017年08月08日-8月28日",
+      "Price":"￥182.00",
+      "Btn":"免费抽奖"
+    },
+    {
+      "Img": "../images/taketen.gif",
+      "Title": "ACA/北美电器 AHM-S300手持式婴儿辅食 料理机 多功能搅拌料理棒",
+      "Data": "2017年08月02日-8月21日",
+      "Price":"￥299.00",
+      "Btn":"免费抽奖"
+    }
+  ]
+}
